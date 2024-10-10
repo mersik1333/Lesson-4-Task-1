@@ -1,6 +1,3 @@
-from re import split
-
-
 print("Введите длины сторон a, b, c треугольнка")   
 print("Сторона a: ") 
 a = float(input())
